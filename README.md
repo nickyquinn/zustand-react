@@ -1,8 +1,8 @@
-# pullstate-react
+# zustand-react
 
 A really minimal starting point for my own React apps
 using Parcel 2/Yarn/React/css-modules/Sass and of course,
-lostpebble.github.io/pullstate.
+zustand
 
 ## Getting started
 
